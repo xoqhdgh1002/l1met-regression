@@ -1,9 +1,8 @@
 # l1met-regression
 
-Root
-├── Child 1
-│   ├── Subchild 1
-│   └── Subchild 2
-└── Child 2
+Root<br>
+├── Child 1<br>
+│   ├── Subchild 1<br>
+│   └── Subchild 2<br>
+└── Child 2<br>
     └── Subchild 3
-
