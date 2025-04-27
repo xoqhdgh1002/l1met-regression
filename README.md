@@ -1,10 +1,9 @@
 # l1met-regression
 
-```mermaid
-graph TD
-    Root
-    Root --> Child1
-    Root --> Child2
-    Child1 --> Subchild1
-    Child1 --> Subchild2
-    Child2 --> Subchild3
+Root
+├── Child 1
+│   ├── Subchild 1
+│   └── Subchild 2
+└── Child 2
+    └── Subchild 3
+
